@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "c1",
+    "category_id": "01",
+    "title": "JavaScript For Begineers",
+    "image_url": "https://miro.medium.com/max/800/1*2jgqpiZAf85BQwWUHuv-6Q.png",
+    "details": "This course if for absolute beginners, and it is an introduction to the major components of javascript. By learning the bigger things in Javascript, you will be able to know how to put the remaining pieces together and will be able to get into advanced courses more prepared."
+  },
+  {
+    "_id": "c2",
+    "category_id": "01",
+    "title": "Python for Beginners - Learn Programming",
+    "image_url": "https://www.digifloor.com/wp-content/uploads/2016/07/python-banner.jpg",
+    "details": "This python for beginners course is geared to students who want to know how python works and also to those totally new to programming. The python language has very simple syntax(way to write it) to learn and it is one of the most powerful languages to learn since it can used for a variety of things."
+  },
+  {
+    "_id": "c3",
+    "category_id": "02",
+    "title": "Modern HTML & CSS From The Beginning",
+    "image_url": "https://www.lambdatest.com/blog/wp-content/uploads/2018/11/JPG-2.jpg",
+    "details": "This course is for both beginners and seasoned developers that want to learn how to build responsive websites and user interfaces with modern HTML5 and CSS3+ technologies like Flexbox and CSS Grid. This course includes hours of both learning & studying sections along with real life projects. Stop having to rely on frameworks like Bootstrap for your user interface and learn how to create your own layouts and utility classes to build custom responsive websites and app UIs."
+  },
+  {
+    "_id": "c4",
+    "category_id": "02",
+    "title": "JavaScript For Web Designers",
+    "image_url": "https://images.unsplash.com/photo-1579468118864-1b9ea3c0db4a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "details": "This course is for both beginners and seasoned developers that want to learn how to build interactive websites and user interfaces with modern JavaScript. This course includes hours of both learning & studying sections along with real life projects."
+  },
+  {
+    "_id": "c5",
+    "category_id": "02",
+    "title": "Reactjs: Zero to Hero",
+    "image_url": "https://therichpost.com/wp-content/uploads/2020/08/Reactjs-create-and-include-hedar-footer-files.png",
+    "details": "This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer."
+  },
+  {
+    "_id": "c6",
+    "category_id": "02",
+    "title": "MERN Stack Course 2022 - MongoDB, Express, React and NodeJS",
+    "image_url": "https://repository-images.githubusercontent.com/323452378/f65fa580-43e4-11eb-83bc-328f29dfe7f0",
+    "details": "What's up everybody, this is John from Coding Addict and welcome to this MERN Stack course . During the course we will build a full stack application from scratch, using MongoDB, Express, React and Node.js."
+  },
+  {
+    "_id": "c7",
+    "category_id": "03",
+    "title": "Android App Development with Kotlin | Beginner to Advanced",
+    "image_url": "https://miro.medium.com/max/1200/1*8YPjY2xhNwQylBBs8dYB0g.png",
+    "details": "Kotlin is a very new and up-to-date programming language. Kotlin android is accepted by Google as the official language for Android development. Therefore, it is a language that everyone who wants to be an android developer should know. In this course, we teach Kotlin programming language from beginner to advanced level, considering the importance of Kotlin.Kotlin is a statically-typed, general purpose programming language used to develop for the Java Virtual Machine and Android devices. Kotlin is an amalgamation of the object-oriented and functional programming paradigms and can also be compiled to JavaScript source code."
+  },
+  {
+    "_id": "c8",
+    "category_id": "03",
+    "title": "iOS & Swift: Become An App Developer",
+    "image_url": "https://apparchet.files.wordpress.com/2020/09/2632258_0546.jpg",
+    "details": "Welcome to the world's most comprehensive course on iOS development. This course is designed like an in-person coding bootcamp to give you the most amount of content and help with the least amount of cost."
+  },
+  {
+    "_id": "c9",
+    "category_id": "03",
+    "title": "The Complete React Native + Hooks Course",
+    "image_url": "https://miro.medium.com/max/1400/0*3COG2jWwTUd0x-Ip.jpg",
+    "details": "React Native is an excellent solution for developing apps on mobile in a fraction of the time it takes to make an equivalent iOS or Swift app.  You'll love seeing your changes instantly appear on your own device, rather than waiting for Swift/Java code to recompile!  This quick feedback loop, along with excellent cross platform support, is what has catapulted React Native to the top must-have skill for Javascript engineers."
+  },
+  {
+    "_id": "c10",
+    "category_id": "04",
+    "title": "Mastering Data Structures & Algorithms",
+    "image_url": "https://hackr.io/blog/best-data-structure-and-algorithms-courses/thumbnail/large",
+    "details": "You may be new to Data Structure or you have already Studied and Implemented Data Structures but still you feel you need to learn more about Data Structure in detail so that it helps you solve challenging problems and used Data Structure efficiently. This course covers each topic in greater details, every topic is covered on Whiteboard which will improve your Problem Solving and Analytical Skills. Every Data Structure is discussed, analysed and implemented with a Practical line-by-line coding."
+  }
+]
