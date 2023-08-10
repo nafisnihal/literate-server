@@ -35,13 +35,6 @@
     "details": "This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer."
   },
   {
-    "_id": "c6",
-    "category_id": "02",
-    "title": "MERN Stack Course 2022 - MongoDB, Express, React and NodeJS",
-    "image_url": "https://repository-images.githubusercontent.com/323452378/f65fa580-43e4-11eb-83bc-328f29dfe7f0",
-    "details": "What's up everybody, this is John from Coding Addict and welcome to this MERN Stack course . During the course we will build a full stack application from scratch, using MongoDB, Express, React and Node.js."
-  },
-  {
     "_id": "c7",
     "category_id": "03",
     "title": "Android App Development with Kotlin | Beginner to Advanced",
